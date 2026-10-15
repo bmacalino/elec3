@@ -1,0 +1,118 @@
+sample,indicator,lag_months,correlation,p_value,observations,significant
+2019-01 to 2026-06,"Peso per US dollar, monthly average",0,-0.0405,0.7065,89,False
+2019-01 to 2026-06,"Peso per US dollar, monthly average",1,0.0192,0.8593,88,False
+2019-01 to 2026-06,"Peso per US dollar, monthly average",2,0.0699,0.5203,87,False
+2019-01 to 2026-06,"Peso per US dollar, monthly average",3,0.0065,0.9525,86,False
+2019-01 to 2026-06,"Peso per US dollar, monthly average",4,0.0516,0.6390,85,False
+2019-01 to 2026-06,"Peso per US dollar, monthly average",5,0.1265,0.2514,84,False
+2019-01 to 2026-06,"Peso per US dollar, monthly average",6,0.1361,0.2199,83,False
+2019-01 to 2026-06,"Peso per US dollar, monthly average",7,-0.0245,0.8269,82,False
+2019-01 to 2026-06,"Peso per US dollar, monthly average",8,-0.1203,0.2848,81,False
+2019-01 to 2026-06,"Peso per US dollar, monthly average",9,-0.0645,0.5699,80,False
+2019-01 to 2026-06,"Peso per US dollar, monthly average",10,0.0529,0.6435,79,False
+2019-01 to 2026-06,"Peso per US dollar, monthly average",11,-0.0046,0.9680,78,False
+2019-01 to 2026-06,"Peso per US dollar, monthly average",12,-0.0743,0.5208,77,False
+2019-01 to 2026-06,"Peso per US dollar, year-on-year change (%)",0,0.0256,0.8115,89,False
+2019-01 to 2026-06,"Peso per US dollar, year-on-year change (%)",1,-0.0699,0.5177,88,False
+2019-01 to 2026-06,"Peso per US dollar, year-on-year change (%)",2,0.0257,0.8131,87,False
+2019-01 to 2026-06,"Peso per US dollar, year-on-year change (%)",3,-0.0397,0.7164,86,False
+2019-01 to 2026-06,"Peso per US dollar, year-on-year change (%)",4,-0.0038,0.9726,85,False
+2019-01 to 2026-06,"Peso per US dollar, year-on-year change (%)",5,0.0503,0.6496,84,False
+2019-01 to 2026-06,"Peso per US dollar, year-on-year change (%)",6,0.0468,0.6746,83,False
+2019-01 to 2026-06,"Peso per US dollar, year-on-year change (%)",7,0.0246,0.8263,82,False
+2019-01 to 2026-06,"Peso per US dollar, year-on-year change (%)",8,-0.0667,0.5541,81,False
+2019-01 to 2026-06,"Peso per US dollar, year-on-year change (%)",9,-0.0611,0.5901,80,False
+2019-01 to 2026-06,"Peso per US dollar, year-on-year change (%)",10,0.1525,0.1796,79,False
+2019-01 to 2026-06,"Peso per US dollar, year-on-year change (%)",11,0.0810,0.4807,78,False
+2019-01 to 2026-06,"Peso per US dollar, year-on-year change (%)",12,-0.0625,0.5895,77,False
+2019-01 to 2026-06,"Inflation rate, year-on-year (%)",0,0.0457,0.6708,89,False
+2019-01 to 2026-06,"Inflation rate, year-on-year (%)",1,0.0260,0.8100,88,False
+2019-01 to 2026-06,"Inflation rate, year-on-year (%)",2,-0.0023,0.9829,87,False
+2019-01 to 2026-06,"Inflation rate, year-on-year (%)",3,0.0284,0.7953,86,False
+2019-01 to 2026-06,"Inflation rate, year-on-year (%)",4,-0.1680,0.1243,85,False
+2019-01 to 2026-06,"Inflation rate, year-on-year (%)",5,-0.1559,0.1568,84,False
+2019-01 to 2026-06,"Inflation rate, year-on-year (%)",6,0.0383,0.7311,83,False
+2019-01 to 2026-06,"Inflation rate, year-on-year (%)",7,0.1189,0.2875,82,False
+2019-01 to 2026-06,"Inflation rate, year-on-year (%)",8,0.2223,0.0461,81,True
+2019-01 to 2026-06,"Inflation rate, year-on-year (%)",9,0.1937,0.0851,80,False
+2019-01 to 2026-06,"Inflation rate, year-on-year (%)",10,0.1104,0.3326,79,False
+2019-01 to 2026-06,"Inflation rate, year-on-year (%)",11,0.0614,0.5930,78,False
+2019-01 to 2026-06,"Inflation rate, year-on-year (%)",12,-0.0723,0.5323,77,False
+2022-01 to 2026-06,"Peso per US dollar, monthly average",0,-0.2761,0.0433,54,True
+2022-01 to 2026-06,"Peso per US dollar, monthly average",1,-0.0507,0.7186,53,False
+2022-01 to 2026-06,"Peso per US dollar, monthly average",2,0.2362,0.0918,52,False
+2022-01 to 2026-06,"Peso per US dollar, monthly average",3,0.2261,0.1107,51,False
+2022-01 to 2026-06,"Peso per US dollar, monthly average",4,0.0813,0.5747,50,False
+2022-01 to 2026-06,"Peso per US dollar, monthly average",5,0.2532,0.0792,49,False
+2022-01 to 2026-06,"Peso per US dollar, monthly average",6,0.2120,0.1480,48,False
+2022-01 to 2026-06,"Peso per US dollar, monthly average",7,0.0188,0.8999,47,False
+2022-01 to 2026-06,"Peso per US dollar, monthly average",8,-0.0902,0.5513,46,False
+2022-01 to 2026-06,"Peso per US dollar, monthly average",9,-0.0444,0.7722,45,False
+2022-01 to 2026-06,"Peso per US dollar, monthly average",10,0.0100,0.9488,44,False
+2022-01 to 2026-06,"Peso per US dollar, monthly average",11,0.0365,0.8164,43,False
+2022-01 to 2026-06,"Peso per US dollar, monthly average",12,-0.0396,0.8034,42,False
+2022-01 to 2026-06,"Peso per US dollar, year-on-year change (%)",0,-0.1362,0.3260,54,False
+2022-01 to 2026-06,"Peso per US dollar, year-on-year change (%)",1,-0.1232,0.3793,53,False
+2022-01 to 2026-06,"Peso per US dollar, year-on-year change (%)",2,0.0751,0.5965,52,False
+2022-01 to 2026-06,"Peso per US dollar, year-on-year change (%)",3,0.1104,0.4408,51,False
+2022-01 to 2026-06,"Peso per US dollar, year-on-year change (%)",4,0.0599,0.6793,50,False
+2022-01 to 2026-06,"Peso per US dollar, year-on-year change (%)",5,0.1699,0.2432,49,False
+2022-01 to 2026-06,"Peso per US dollar, year-on-year change (%)",6,0.2073,0.1573,48,False
+2022-01 to 2026-06,"Peso per US dollar, year-on-year change (%)",7,0.0782,0.6013,47,False
+2022-01 to 2026-06,"Peso per US dollar, year-on-year change (%)",8,-0.0631,0.6770,46,False
+2022-01 to 2026-06,"Peso per US dollar, year-on-year change (%)",9,-0.0755,0.6219,45,False
+2022-01 to 2026-06,"Peso per US dollar, year-on-year change (%)",10,-0.0069,0.9645,44,False
+2022-01 to 2026-06,"Peso per US dollar, year-on-year change (%)",11,0.1465,0.3485,43,False
+2022-01 to 2026-06,"Peso per US dollar, year-on-year change (%)",12,0.1108,0.4847,42,False
+2022-01 to 2026-06,"Inflation rate, year-on-year (%)",0,-0.0058,0.9665,54,False
+2022-01 to 2026-06,"Inflation rate, year-on-year (%)",1,-0.0395,0.7788,53,False
+2022-01 to 2026-06,"Inflation rate, year-on-year (%)",2,-0.0615,0.6648,52,False
+2022-01 to 2026-06,"Inflation rate, year-on-year (%)",3,0.1355,0.3430,51,False
+2022-01 to 2026-06,"Inflation rate, year-on-year (%)",4,0.0882,0.5425,50,False
+2022-01 to 2026-06,"Inflation rate, year-on-year (%)",5,0.2045,0.1587,49,False
+2022-01 to 2026-06,"Inflation rate, year-on-year (%)",6,0.2020,0.1686,48,False
+2022-01 to 2026-06,"Inflation rate, year-on-year (%)",7,0.0751,0.6160,47,False
+2022-01 to 2026-06,"Inflation rate, year-on-year (%)",8,0.1048,0.4882,46,False
+2022-01 to 2026-06,"Inflation rate, year-on-year (%)",9,0.0387,0.8010,45,False
+2022-01 to 2026-06,"Inflation rate, year-on-year (%)",10,-0.1575,0.3073,44,False
+2022-01 to 2026-06,"Inflation rate, year-on-year (%)",11,0.0479,0.7602,43,False
+2022-01 to 2026-06,"Inflation rate, year-on-year (%)",12,0.0140,0.9299,42,False
+"2019-01 to 2026-06, indicators not differenced where ADF and KPSS disagree","Peso per US dollar, monthly average",0,-0.0405,0.7065,89,False
+"2019-01 to 2026-06, indicators not differenced where ADF and KPSS disagree","Peso per US dollar, monthly average",1,0.0192,0.8593,88,False
+"2019-01 to 2026-06, indicators not differenced where ADF and KPSS disagree","Peso per US dollar, monthly average",2,0.0699,0.5203,87,False
+"2019-01 to 2026-06, indicators not differenced where ADF and KPSS disagree","Peso per US dollar, monthly average",3,0.0065,0.9525,86,False
+"2019-01 to 2026-06, indicators not differenced where ADF and KPSS disagree","Peso per US dollar, monthly average",4,0.0516,0.6390,85,False
+"2019-01 to 2026-06, indicators not differenced where ADF and KPSS disagree","Peso per US dollar, monthly average",5,0.1265,0.2514,84,False
+"2019-01 to 2026-06, indicators not differenced where ADF and KPSS disagree","Peso per US dollar, monthly average",6,0.1361,0.2199,83,False
+"2019-01 to 2026-06, indicators not differenced where ADF and KPSS disagree","Peso per US dollar, monthly average",7,-0.0245,0.8269,82,False
+"2019-01 to 2026-06, indicators not differenced where ADF and KPSS disagree","Peso per US dollar, monthly average",8,-0.1203,0.2848,81,False
+"2019-01 to 2026-06, indicators not differenced where ADF and KPSS disagree","Peso per US dollar, monthly average",9,-0.0645,0.5699,80,False
+"2019-01 to 2026-06, indicators not differenced where ADF and KPSS disagree","Peso per US dollar, monthly average",10,0.0529,0.6435,79,False
+"2019-01 to 2026-06, indicators not differenced where ADF and KPSS disagree","Peso per US dollar, monthly average",11,-0.0046,0.9680,78,False
+"2019-01 to 2026-06, indicators not differenced where ADF and KPSS disagree","Peso per US dollar, monthly average",12,-0.0743,0.5208,77,False
+"2019-01 to 2026-06, indicators not differenced where ADF and KPSS disagree","Peso per US dollar, year-on-year change (%)",0,0.0418,0.6954,90,False
+"2019-01 to 2026-06, indicators not differenced where ADF and KPSS disagree","Peso per US dollar, year-on-year change (%)",1,0.0312,0.7720,89,False
+"2019-01 to 2026-06, indicators not differenced where ADF and KPSS disagree","Peso per US dollar, year-on-year change (%)",2,0.0599,0.5791,88,False
+"2019-01 to 2026-06, indicators not differenced where ADF and KPSS disagree","Peso per US dollar, year-on-year change (%)",3,0.0464,0.6693,87,False
+"2019-01 to 2026-06, indicators not differenced where ADF and KPSS disagree","Peso per US dollar, year-on-year change (%)",4,0.0596,0.5854,86,False
+"2019-01 to 2026-06, indicators not differenced where ADF and KPSS disagree","Peso per US dollar, year-on-year change (%)",5,0.0575,0.6009,85,False
+"2019-01 to 2026-06, indicators not differenced where ADF and KPSS disagree","Peso per US dollar, year-on-year change (%)",6,0.0481,0.6638,84,False
+"2019-01 to 2026-06, indicators not differenced where ADF and KPSS disagree","Peso per US dollar, year-on-year change (%)",7,0.0256,0.8181,83,False
+"2019-01 to 2026-06, indicators not differenced where ADF and KPSS disagree","Peso per US dollar, year-on-year change (%)",8,0.0147,0.8956,82,False
+"2019-01 to 2026-06, indicators not differenced where ADF and KPSS disagree","Peso per US dollar, year-on-year change (%)",9,0.0339,0.7636,81,False
+"2019-01 to 2026-06, indicators not differenced where ADF and KPSS disagree","Peso per US dollar, year-on-year change (%)",10,0.0491,0.6656,80,False
+"2019-01 to 2026-06, indicators not differenced where ADF and KPSS disagree","Peso per US dollar, year-on-year change (%)",11,-0.0037,0.9742,79,False
+"2019-01 to 2026-06, indicators not differenced where ADF and KPSS disagree","Peso per US dollar, year-on-year change (%)",12,-0.0307,0.7897,78,False
+"2019-01 to 2026-06, indicators not differenced where ADF and KPSS disagree","Inflation rate, year-on-year (%)",0,0.1133,0.2878,90,False
+"2019-01 to 2026-06, indicators not differenced where ADF and KPSS disagree","Inflation rate, year-on-year (%)",1,0.0976,0.3628,89,False
+"2019-01 to 2026-06, indicators not differenced where ADF and KPSS disagree","Inflation rate, year-on-year (%)",2,0.0918,0.3951,88,False
+"2019-01 to 2026-06, indicators not differenced where ADF and KPSS disagree","Inflation rate, year-on-year (%)",3,0.0909,0.4023,87,False
+"2019-01 to 2026-06, indicators not differenced where ADF and KPSS disagree","Inflation rate, year-on-year (%)",4,0.0811,0.4578,86,False
+"2019-01 to 2026-06, indicators not differenced where ADF and KPSS disagree","Inflation rate, year-on-year (%)",5,0.1272,0.2461,85,False
+"2019-01 to 2026-06, indicators not differenced where ADF and KPSS disagree","Inflation rate, year-on-year (%)",6,0.1816,0.0983,84,False
+"2019-01 to 2026-06, indicators not differenced where ADF and KPSS disagree","Inflation rate, year-on-year (%)",7,0.1674,0.1303,83,False
+"2019-01 to 2026-06, indicators not differenced where ADF and KPSS disagree","Inflation rate, year-on-year (%)",8,0.1321,0.2368,82,False
+"2019-01 to 2026-06, indicators not differenced where ADF and KPSS disagree","Inflation rate, year-on-year (%)",9,0.0639,0.5710,81,False
+"2019-01 to 2026-06, indicators not differenced where ADF and KPSS disagree","Inflation rate, year-on-year (%)",10,0.0016,0.9891,80,False
+"2019-01 to 2026-06, indicators not differenced where ADF and KPSS disagree","Inflation rate, year-on-year (%)",11,-0.0307,0.7885,79,False
+"2019-01 to 2026-06, indicators not differenced where ADF and KPSS disagree","Inflation rate, year-on-year (%)",12,-0.0487,0.6721,78,False

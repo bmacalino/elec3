@@ -1,0 +1,6 @@
+series,months,mean,std_dev,minimum,minimum_month,maximum,maximum_month,first,last
+Cash remittances (US$ million),90,2719.5504,271.2610,2045.9127,2020-04,3522.4955,2025-12,2483.6164,3038.5292
+"Cash remittances, year-on-year change (%)",90,3.0403,4.1157,-19.3074,2020-05,13.1297,2021-05,4.3887,1.7106
+"Peso per US dollar, monthly average",90,54.0753,3.7250,47.9552,2021-05,61.4410,2026-05,52.4679,61.2513
+"Peso per US dollar, year-on-year change (%)",90,1.6440,5.3162,-6.9082,2020-09,15.9127,2022-10,3.8790,8.6814
+"Inflation rate, year-on-year (%)",90,3.7122,1.9513,0.5000,2019-09,8.7000,2023-01,4.4000,6.4000

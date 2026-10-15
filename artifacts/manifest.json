@@ -1,0 +1,143 @@
+{
+ "generated": "2026-10-13T17:11:31+08:00",
+ "study_period": {
+  "start": "2019-01",
+  "end": "2026-06",
+  "months": 90,
+  "end_set_by": "latest month in all three series",
+  "preliminary_from": "2025-01"
+ },
+ "split": {
+  "train_start": "2019-01",
+  "train_end": "2025-06",
+  "test_start": "2025-07",
+  "test_end": "2026-06"
+ },
+ "test_windows_data_to": [
+  "2023-06",
+  "2023-12",
+  "2024-06",
+  "2024-12",
+  "2025-06"
+ ],
+ "main_model": {
+  "key": "xgb",
+  "name": "XGBoost",
+  "settings": "learning_rate=0.03, max_depth=3, min_child_weight=1, n_estimators=100, subsample=0.8",
+  "rule": "Lowest RMSE averaged over the 5 test windows"
+ },
+ "settings": {
+  "STUDY_START": "2019-01",
+  "STUDY_END": null,
+  "TEST_MONTHS": 12,
+  "FORECAST_HORIZON": 12,
+  "INDICATOR_LAG": 3,
+  "ROLLING_WINDOWS": 5,
+  "ROLLING_STEP": 6,
+  "MODEL_SELECTION": "rolling",
+  "INTERVAL_BACKTEST_ORIGINS": 36,
+  "RELATIONSHIP_RECENT_START": "2022-01",
+  "SEASONAL_PERIOD": 12,
+  "RANDOM_SEED": 42,
+  "TREND_STABLE_BAND_PCT": 1.0
+ },
+ "raw_files": [
+  {
+   "dataset": "Monthly personal and cash remittances",
+   "source": "BSP",
+   "file": "Original_ofwp.xlsx",
+   "bytes": 138577,
+   "sha256": "0fb66e93499734c17cd198c151292bc6eda0b57ea0ac7ffe7cce8de72e4b8b68",
+   "workbook_last_saved": "2026-09-11T05:12:00Z",
+   "copied_to_this_folder": "2026-10-13T12:22:55",
+   "covers": [
+    "2005-01",
+    "2026-06"
+   ]
+  },
+  {
+   "dataset": "Cash remittances by country and source",
+   "source": "BSP",
+   "file": "Original_ofw.xlsx",
+   "bytes": 3090011,
+   "sha256": "d1c2613a8a5b7e618ce22b9e51f8d8a5616425e0b658babae3f8de1183f7b487",
+   "workbook_last_saved": "2026-09-11T05:11:24Z",
+   "copied_to_this_folder": "2026-10-13T12:22:40",
+   "covers": null
+  },
+  {
+   "dataset": "Peso per US dollar exchange rate (daily, monthly, annual)",
+   "source": "BSP",
+   "file": "Original_ExchangeRate_whole.xlsx",
+   "bytes": 206054,
+   "sha256": "dcad78a11af0aca6bdb3a11e0ae0a61e6bc4662facde8a5991e863eedf59dd71",
+   "workbook_last_saved": "2026-10-01T08:52:29Z",
+   "copied_to_this_folder": "2026-10-13T11:36:57",
+   "covers": [
+    "1945-01",
+    "2026-09"
+   ]
+  },
+  {
+   "dataset": "Year-on-year change of the CPI, all items, Philippines (2018=100)",
+   "source": "PSA OpenSTAT",
+   "file": "Original_PSA_PriceIndices.csv",
+   "bytes": 1629,
+   "sha256": "03d91d90472d2af5806261f44f79db91012a62e0f0e2a2f6fd43944ec3216181",
+   "workbook_last_saved": null,
+   "copied_to_this_folder": "2026-10-13T11:36:25",
+   "covers": [
+    "2019-01",
+    "2026-08"
+   ]
+  }
+ ],
+ "outputs": [
+  {
+   "file": "data/processed/monthly.csv",
+   "sha256": "f533b057779a0c7dd1272e6e594d6a3a95ce9f51084e409df18b3228de4a6269"
+  },
+  {
+   "file": "data/processed/by_source.csv",
+   "sha256": "c06a1c2fea26c4102f80ddce81bca6c62f11a62a61aea5be710d6d51ec0d159a"
+  },
+  {
+   "file": "data/processed/by_country.csv",
+   "sha256": "fc5f2208f9cf7c8d0796e1f9040358eaf4654e4e1ee8c6ba14310a8951cbc416"
+  },
+  {
+   "file": "artifacts/analysis.json",
+   "sha256": "3ce2c443a98362183db3c991a4b4790ff881eace5e5dca223101f7b2459ae2f5"
+  },
+  {
+   "file": "artifacts/metrics.json",
+   "sha256": "b264aea133a4c162db154d2a0978082bd2fa73b10f6a14543d15e24877555fab"
+  },
+  {
+   "file": "artifacts/forecasts.json",
+   "sha256": "1f7fd64534574122755ea80c726968e0035a7548de0dde7b5ffae8302134f9e3"
+  }
+ ],
+ "software": {
+  "python": "3.11.9",
+  "platform": "Windows-10-10.0.26200-SP0",
+  "pandas": "3.0.6",
+  "numpy": "2.4.6",
+  "scipy": "1.17.1",
+  "statsmodels": "0.15.0",
+  "scikit-learn": "1.9.1",
+  "xgboost": "3.2.0",
+  "matplotlib": "3.11.2",
+  "flask": "3.1.3",
+  "plotly": "7.1.0",
+  "joblib": "1.6.0",
+  "openpyxl": "3.1.5",
+  "xlrd": "2.0.2"
+ },
+ "last_values": {
+  "month": "2026-06",
+  "cash_remittance_usd_million": 3038.52924574,
+  "php_per_usd_avg": 61.251285714285714,
+  "inflation_yoy_pct": 6.4
+ }
+}

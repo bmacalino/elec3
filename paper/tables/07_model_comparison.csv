@@ -1,0 +1,10 @@
+model,family,main_model,uses_indicators,settings,training_rows,test_mae,test_rmse,test_mape_pct,rolling_rmse,dm_p_value_vs_main,differs_from_main,interval,test_months_inside_interval
+XGBoost,machine learning,True,False,"learning_rate=0.03, max_depth=3, min_child_weight=1, n_estimators=100, subsample=0.8",72,19.3866,23.0411,0.6491,16.8508,,,backtest,12 of 12
+Random Forest,machine learning,False,False,"max_depth=None, max_features=0.5, min_samples_leaf=5, n_estimators=300",72,18.9562,22.9996,0.6317,18.5529,0.1169,False,backtest,12 of 12
+SARIMA,statistical,False,False,"SARIMA(1,0,1)(1,1,0)[12] with drift",78,24.9667,29.5942,0.8163,25.5546,0.0052,True,model,12 of 12
+XGBoost with indicators,machine learning,False,True,"learning_rate=0.03, max_depth=2, min_child_weight=1, n_estimators=100, subsample=0.8",72,28.1053,54.3460,0.9601,30.1182,0.0435,True,backtest,11 of 12
+Random Forest with indicators,machine learning,False,True,"max_depth=2, max_features=0.5, min_samples_leaf=5, n_estimators=300",72,85.4545,96.5706,2.8400,38.2661,0.1380,False,backtest,4 of 12
+SARIMAX,statistical,False,True,"SARIMA(1,0,1)(1,1,0)[12] with drift, indicators lagged 3 months",75,22.9998,29.3130,0.7444,42.9517,0.0392,True,model,12 of 12
+Same month last year,reference,False,False,Seasonal naive,78,85.8540,89.9266,2.8235,88.1497,0.0000,True,,
+ARIMA,statistical,False,False,"ARIMA(3,1,3) with drift",78,180.3960,215.3543,5.9212,202.5859,0.0000,True,model,11 of 12
+ARIMAX,statistical,False,True,"ARIMA(3,1,3) with drift, indicators lagged 3 months",75,179.0506,212.1614,5.8919,216.8762,0.0000,True,model,11 of 12

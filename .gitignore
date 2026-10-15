@@ -1,0 +1,26 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Fitted models: large, and rebuilt by `python -m remittrend.pipeline train`
+artifacts/models/
+
+# The full PSA table for every region and commodity (20 MB). The pipeline reads
+# only the Philippines, all-items row, which is in Original_PSA_PriceIndices.csv.
+data/raw/Original_Inflation_whole.xlsx
+
+# Frontend
+node_modules/
+frontend/dist/
+
+# Editors and OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+
+# Word lock files
+~$*

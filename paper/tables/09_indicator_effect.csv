@@ -1,0 +1,5 @@
+without_indicators,with_indicators,test_rmse_without,test_rmse_with,rolling_rmse_without,rolling_rmse_with,lower_error_on_test,lower_error_on_rolling
+ARIMA,ARIMAX,215.3543,212.1614,202.5859,216.8762,True,False
+SARIMA,SARIMAX,29.5942,29.3130,25.5546,42.9517,True,False
+Random Forest,Random Forest with indicators,22.9996,96.5706,18.5529,38.2661,False,False
+XGBoost,XGBoost with indicators,23.0411,54.3460,16.8508,30.1182,False,False
